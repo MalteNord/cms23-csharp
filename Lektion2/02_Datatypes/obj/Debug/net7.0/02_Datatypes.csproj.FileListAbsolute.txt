@@ -1,0 +1,15 @@
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/bin/Debug/net7.0/02_Datatypes
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/bin/Debug/net7.0/02_Datatypes.deps.json
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/bin/Debug/net7.0/02_Datatypes.runtimeconfig.json
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/bin/Debug/net7.0/02_Datatypes.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/bin/Debug/net7.0/02_Datatypes.pdb
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/obj/Debug/net7.0/02_Datatypes.csproj.AssemblyReference.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/obj/Debug/net7.0/02_Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/obj/Debug/net7.0/02_Datatypes.AssemblyInfoInputs.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/obj/Debug/net7.0/02_Datatypes.AssemblyInfo.cs
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/obj/Debug/net7.0/02_Datatypes.csproj.CoreCompileInputs.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/obj/Debug/net7.0/02_Datatypes.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/obj/Debug/net7.0/refint/02_Datatypes.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/obj/Debug/net7.0/02_Datatypes.pdb
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/obj/Debug/net7.0/02_Datatypes.genruntimeconfig.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/02_Datatypes/obj/Debug/net7.0/ref/02_Datatypes.dll

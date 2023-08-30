@@ -1,0 +1,15 @@
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/bin/Debug/net7.0/01_Basic_Consoleapp
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/bin/Debug/net7.0/01_Basic_Consoleapp.deps.json
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/bin/Debug/net7.0/01_Basic_Consoleapp.runtimeconfig.json
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/bin/Debug/net7.0/01_Basic_Consoleapp.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/bin/Debug/net7.0/01_Basic_Consoleapp.pdb
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/obj/Debug/net7.0/01_Basic_Consoleapp.csproj.AssemblyReference.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/obj/Debug/net7.0/01_Basic_Consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/obj/Debug/net7.0/01_Basic_Consoleapp.AssemblyInfoInputs.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/obj/Debug/net7.0/01_Basic_Consoleapp.AssemblyInfo.cs
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/obj/Debug/net7.0/01_Basic_Consoleapp.csproj.CoreCompileInputs.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/obj/Debug/net7.0/01_Basic_Consoleapp.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/obj/Debug/net7.0/refint/01_Basic_Consoleapp.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/obj/Debug/net7.0/01_Basic_Consoleapp.pdb
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/obj/Debug/net7.0/01_Basic_Consoleapp.genruntimeconfig.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion2/01_Basic_Consoleapp/obj/Debug/net7.0/ref/01_Basic_Consoleapp.dll

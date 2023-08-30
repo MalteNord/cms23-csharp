@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2023D1D6-A3D9-4E93-8037-DAF67AB30395}|Default">
+  <MonoDevelop.Ide.ItemProperties.01__Consoleapp__BasicStructures__Full FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02_Datatypes/Program.cs">
+    <Files>
+      <File FileName="02_Datatypes/Program.cs" Line="71" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lektion2" expanded="True">
+            <Node name="02_Datatypes" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01__Basic__Consoleapp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02__Datatypes PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
