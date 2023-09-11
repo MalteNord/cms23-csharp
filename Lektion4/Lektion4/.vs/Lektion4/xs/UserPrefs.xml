@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{32EE67DA-0A70-413A-B80B-887255CF05AB}|Default">
-  <MonoDevelop.Ide.ItemProperties.02__Classes__GetersAndSeters FirstBuild="True" />
+﻿<Properties StartupConfiguration="{93B11A13-C0F5-405D-AA13-0DD8C6CE664D}|Default">
+  <MonoDevelop.Ide.ItemProperties.02__Classes__GetersAndSeters PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.03__Classes__Constructors FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.01__Classes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

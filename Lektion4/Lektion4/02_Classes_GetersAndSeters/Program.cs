@@ -23,3 +23,6 @@ user.SetSecurePassword("BytMig!");
 var password = Encoding.UTF8.GetString(user.Password);
 Console.WriteLine($"Password: {password}");
 Console.ReadKey();
+
+
+
