@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Classes_GetersAndSeters"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Classes_Constructors", "03_Classes_Constructors\03_Classes_Constructors.csproj", "{F157C797-53EA-4553-A1F3-53CA828B1EB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Classes_Inheritance", "04_Classes_Inheritance\04_Classes_Inheritance.csproj", "{1E2D3122-D38C-40F5-9931-D87B06AEF999}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F157C797-53EA-4553-A1F3-53CA828B1EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F157C797-53EA-4553-A1F3-53CA828B1EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F157C797-53EA-4553-A1F3-53CA828B1EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2D3122-D38C-40F5-9931-D87B06AEF999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2D3122-D38C-40F5-9931-D87B06AEF999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2D3122-D38C-40F5-9931-D87B06AEF999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2D3122-D38C-40F5-9931-D87B06AEF999}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/bin/Debug/net7.0/04_Classes_Inheritance
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/bin/Debug/net7.0/04_Classes_Inheritance.deps.json
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/bin/Debug/net7.0/04_Classes_Inheritance.runtimeconfig.json
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/bin/Debug/net7.0/04_Classes_Inheritance.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/bin/Debug/net7.0/04_Classes_Inheritance.pdb
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/obj/Debug/net7.0/04_Classes_Inheritance.csproj.AssemblyReference.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/obj/Debug/net7.0/04_Classes_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/obj/Debug/net7.0/04_Classes_Inheritance.AssemblyInfoInputs.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/obj/Debug/net7.0/04_Classes_Inheritance.AssemblyInfo.cs
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/obj/Debug/net7.0/04_Classes_Inheritance.csproj.CoreCompileInputs.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/obj/Debug/net7.0/04_Classes_Inheritance.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/obj/Debug/net7.0/refint/04_Classes_Inheritance.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/obj/Debug/net7.0/04_Classes_Inheritance.pdb
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/obj/Debug/net7.0/04_Classes_Inheritance.genruntimeconfig.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/04_Classes_Inheritance/obj/Debug/net7.0/ref/04_Classes_Inheritance.dll

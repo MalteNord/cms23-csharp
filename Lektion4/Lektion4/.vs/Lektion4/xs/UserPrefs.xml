@@ -1,39 +1,40 @@
-﻿<Properties StartupConfiguration="{F157C797-53EA-4553-A1F3-53CA828B1EB6}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.02__Classes__GetersAndSeters PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="03_Classes_Constructors/Models/Contact.cs">
+﻿<Properties StartupConfiguration="{1E2D3122-D38C-40F5-9931-D87B06AEF999}|Default">
+  <MonoDevelop.Ide.ItemProperties.03__Classes__Constructors FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04_Classes_Inheritance/Program.cs">
     <Files>
-      <File FileName="03_Classes_Constructors/Program.cs" Line="18" Column="37" />
-      <File FileName="03_Classes_Constructors/Models/Customer.cs" Line="22" Column="26" />
-      <File FileName="03_Classes_Constructors/Models/User.cs" Line="11" Column="44" NotebookId="1" />
-      <File FileName="03_Classes_Constructors/Models/Contact.cs" Line="9" Column="50" NotebookId="1" />
+      <File FileName="04_Classes_Inheritance/Program.cs" Line="29" Column="1" />
+      <File FileName="04_Classes_Inheritance/Services/CustomerService.cs" Line="32" Column="41" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lektion4">
-            <Node name="01_Classes" expanded="True">
+            <Node name="01_Classes">
               <Node name="Models" expanded="True" />
               <Node name="Services" expanded="True" />
             </Node>
-            <Node name="02_Classes_GetersAndSeters" expanded="True">
+            <Node name="02_Classes_GetersAndSeters">
               <Node name="Models" expanded="True" />
             </Node>
             <Node name="03_Classes_Constructors">
-              <Node name="Models" expanded="True">
-                <Node name="Contact.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="04_Classes_Inheritance">
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.03__Classes__Constructors FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02__Classes__GetersAndSeters PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01__Classes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.04__Classes__Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
