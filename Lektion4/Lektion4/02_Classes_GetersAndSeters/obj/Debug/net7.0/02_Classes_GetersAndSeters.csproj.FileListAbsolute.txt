@@ -1,0 +1,15 @@
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/bin/Debug/net7.0/02_Classes_GetersAndSeters
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/bin/Debug/net7.0/02_Classes_GetersAndSeters.deps.json
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/bin/Debug/net7.0/02_Classes_GetersAndSeters.runtimeconfig.json
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/bin/Debug/net7.0/02_Classes_GetersAndSeters.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/bin/Debug/net7.0/02_Classes_GetersAndSeters.pdb
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/obj/Debug/net7.0/02_Classes_GetersAndSeters.csproj.AssemblyReference.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/obj/Debug/net7.0/02_Classes_GetersAndSeters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/obj/Debug/net7.0/02_Classes_GetersAndSeters.AssemblyInfoInputs.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/obj/Debug/net7.0/02_Classes_GetersAndSeters.AssemblyInfo.cs
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/obj/Debug/net7.0/02_Classes_GetersAndSeters.csproj.CoreCompileInputs.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/obj/Debug/net7.0/02_Classes_GetersAndSeters.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/obj/Debug/net7.0/refint/02_Classes_GetersAndSeters.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/obj/Debug/net7.0/02_Classes_GetersAndSeters.pdb
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/obj/Debug/net7.0/02_Classes_GetersAndSeters.genruntimeconfig.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion4/Lektion4/02_Classes_GetersAndSeters/obj/Debug/net7.0/ref/02_Classes_GetersAndSeters.dll

@@ -1,0 +1,15 @@
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/bin/Debug/net7.0/04_ClassesAndLists
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/bin/Debug/net7.0/04_ClassesAndLists.deps.json
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/bin/Debug/net7.0/04_ClassesAndLists.runtimeconfig.json
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/bin/Debug/net7.0/04_ClassesAndLists.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/bin/Debug/net7.0/04_ClassesAndLists.pdb
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.csproj.AssemblyReference.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.AssemblyInfoInputs.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.AssemblyInfo.cs
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.csproj.CoreCompileInputs.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/obj/Debug/net7.0/refint/04_ClassesAndLists.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.pdb
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.genruntimeconfig.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/04_ClassesAndLists/obj/Debug/net7.0/ref/04_ClassesAndLists.dll

@@ -1,0 +1,15 @@
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/bin/Debug/net7.0/03_LoopAndConditions
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/bin/Debug/net7.0/03_LoopAndConditions.deps.json
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/bin/Debug/net7.0/03_LoopAndConditions.runtimeconfig.json
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/bin/Debug/net7.0/03_LoopAndConditions.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/bin/Debug/net7.0/03_LoopAndConditions.pdb
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/obj/Debug/net7.0/03_LoopAndConditions.csproj.AssemblyReference.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/obj/Debug/net7.0/03_LoopAndConditions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/obj/Debug/net7.0/03_LoopAndConditions.AssemblyInfoInputs.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/obj/Debug/net7.0/03_LoopAndConditions.AssemblyInfo.cs
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/obj/Debug/net7.0/03_LoopAndConditions.csproj.CoreCompileInputs.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/obj/Debug/net7.0/03_LoopAndConditions.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/obj/Debug/net7.0/refint/03_LoopAndConditions.dll
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/obj/Debug/net7.0/03_LoopAndConditions.pdb
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/obj/Debug/net7.0/03_LoopAndConditions.genruntimeconfig.cache
+/Users/maltenordstrand/Desktop/Skola/Excersizes/C-Sharp/Lektion3/03_LoopAndConditions/obj/Debug/net7.0/ref/03_LoopAndConditions.dll
