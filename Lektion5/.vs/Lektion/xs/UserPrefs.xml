@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{36C97283-251C-49E7-B725-AB2F3067976A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.01__Exersize PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01_Exersize/Interfaces/IUserService.cs">
+    <Files>
+      <File FileName="01_Exersize/Program.cs" />
+      <File FileName="01_Exersize/Models/User.cs" />
+      <File FileName="01_Exersize/Models/UserCreateRequest.cs" />
+      <File FileName="01_Exersize/Services/UserService.cs" Line="35" Column="7" />
+      <File FileName="01_Exersize/Interfaces/IUserService.cs" Line="1" Column="1" />
+      <File FileName="01_Exersize/Services/MenuService.cs" Line="135" Column="86" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lektion" expanded="True">
+            <Node name="01_Exersize" expanded="True">
+              <Node name="Interfaces" expanded="True">
+                <Node name="IUserService.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
