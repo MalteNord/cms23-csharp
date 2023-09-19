@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\bin\Debug\net7.0\00_Repetition.exe
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\bin\Debug\net7.0\00_Repetition.deps.json
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\bin\Debug\net7.0\00_Repetition.runtimeconfig.json
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\bin\Debug\net7.0\00_Repetition.dll
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\bin\Debug\net7.0\00_Repetition.pdb
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\obj\Debug\net7.0\00_Repetition.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\obj\Debug\net7.0\00_Repetition.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\obj\Debug\net7.0\00_Repetition.AssemblyInfo.cs
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\obj\Debug\net7.0\00_Repetition.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\obj\Debug\net7.0\00_Repetition.dll
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\obj\Debug\net7.0\refint\00_Repetition.dll
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\obj\Debug\net7.0\00_Repetition.pdb
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\obj\Debug\net7.0\00_Repetition.genruntimeconfig.cache
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\00_Repetition\obj\Debug\net7.0\ref\00_Repetition.dll

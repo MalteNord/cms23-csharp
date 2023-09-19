@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\bin\Debug\net7.0\02_TodoList.exe
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\bin\Debug\net7.0\02_TodoList.deps.json
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\bin\Debug\net7.0\02_TodoList.runtimeconfig.json
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\bin\Debug\net7.0\02_TodoList.dll
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\bin\Debug\net7.0\02_TodoList.pdb
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\obj\Debug\net7.0\02_TodoList.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\obj\Debug\net7.0\02_TodoList.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\obj\Debug\net7.0\02_TodoList.AssemblyInfo.cs
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\obj\Debug\net7.0\02_TodoList.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\obj\Debug\net7.0\02_TodoList.dll
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\obj\Debug\net7.0\refint\02_TodoList.dll
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\obj\Debug\net7.0\02_TodoList.pdb
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\obj\Debug\net7.0\02_TodoList.genruntimeconfig.cache
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\02_TodoList\obj\Debug\net7.0\ref\02_TodoList.dll

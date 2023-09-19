@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.exe
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.deps.json
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.runtimeconfig.json
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.dll
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.pdb
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\bin\Debug\net7.0\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.AssemblyInfo.cs
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.csproj.CopyComplete
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.dll
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\obj\Debug\net7.0\refint\01_SaveAndReadToFromFile.dll
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.pdb
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.genruntimeconfig.cache
+\\Mac\Home\Desktop\Skola\Excersizes\C-Sharp\Lektion6\01_SaveAndReadToFromFile\obj\Debug\net7.0\ref\01_SaveAndReadToFromFile.dll
